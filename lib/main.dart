@@ -31,6 +31,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// Learning Git
 Route<dynamic> _onGenerateRoute(RouteSettings settings) {
   switch (settings.name) {
     case "/":
